@@ -1,0 +1,70 @@
+.bg-wholeContainer{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/ocean.jpg");
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+}
+.head{
+    color:burlywood;
+}
+.card-container{
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+    background-color: #fff;
+    height: 40%;
+    width: 100%;
+    text-align: center;
+    padding-top:35px;
+}
+.favourite-places-bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/towerbg.png");
+    background-size: cover;
+    padding: 24px;
+}
+
+.favourite-places-heading {
+    color: white;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.favourite-place-card-container {
+    background-color: white;
+    border-radius: 10px;
+    padding: 16px;
+    margin-bottom: 15px;
+}
+
+.favourite-place-card-heading {
+    color: #0f0e46;
+    font-family: "Roboto";
+    font-size: 23px;
+    font-weight: bold;
+}
+
+.favourite-place-card-description {
+    color: #6c6b70;
+    font-family: "Roboto";
+    font-size: 14px;
+}
+
+.favourite-place-card-image {
+    width: 80px;
+    height: 100px;
+}
+.whole{
+    background-image:url('https://cdn.wallpapersafari.com/53/38/PrnK0N.jpg');
+    color: white;
+    background-size:cover;
+
+}
+.card{
+    margin-left:15%;
+    width:70%;
+}
+.para{
+    background-color: white;
+    width: 70%;
+    color:black;
+}
